@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Ever Hernandez 👋
 
-<!--
-**3vCod3/3vCod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | IT Professional
 
-Here are some ideas to get you started:
+I recently graduated from **Northeastern Illinois University** with a **Bachelor of Science in Information Technology**, graduating **Summa Cum Laude** with a **4.0 GPA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software, solving technical problems, and continuously learning new technologies. My interests include software engineering, artificial intelligence, networking, cybersecurity, and full-stack web development.
+
+---
+
+## 🚀 Currently Working On
+
+- 📖 BibleHelp – AI Encouragement Assistant
+- 💻 Career Launch Dashboard
+- 🌐 Expanding my software engineering portfolio
+- 📚 Continuing to strengthen my Java and Python skills
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+- Java
+- Python
+- C#
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Software Development
+- Object-Oriented Programming
+- ASP.NET MVC
+- Entity Framework
+- Software Development Life Cycle
+
+### Networking & Security
+- TCP/IP
+- VPN Technologies
+- OpenVPN
+- Wireshark
+- Firewall Configuration
+- Virtual Machines
+
+### Artificial Intelligence
+- Natural Language Processing
+- Machine Learning Fundamentals
+- LSTM
+- Prompt Engineering
+
+---
+
+## 📂 Featured Projects
+
+🔹 BibleHelp *(In Development)*
+
+🔹 TripLog Web Application
+
+🔹 Enterprise VPN Deployment & Security Analysis
+
+🔹 Career Launch Dashboard *(Coming Soon)*
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science**
+Information Technology
+
+Northeastern Illinois University
+
+- Summa Cum Laude
+- 4.0 GPA
+- STEM Scholarship Recipient
+- Dean's List (Every Semester)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ever-hernandez-/
+- GitHub: https://github.com/3vCod3
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
