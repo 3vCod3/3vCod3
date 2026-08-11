@@ -10,7 +10,7 @@ I enjoy building software, solving technical problems, and continuously learning
 
 ## 🚀 Currently Working On
 
-- 📖 BibleHelp – AI Encouragement Assistant
+- 📖 MiLuz – AI Encouragement Assistant
 - 💻 Career Launch Dashboard
 - 🌐 Expanding my software engineering portfolio
 - 📚 Continuing to strengthen my Java and Python skills
